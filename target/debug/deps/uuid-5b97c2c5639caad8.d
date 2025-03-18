@@ -1,0 +1,13 @@
+/Users/user/Desktop/Rust_Index/back/target/debug/deps/libuuid-5b97c2c5639caad8.rmeta: /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/lib.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/builder.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/error.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/non_nil.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/parser.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/fmt.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/timestamp.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/external.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/macros.rs
+
+/Users/user/Desktop/Rust_Index/back/target/debug/deps/uuid-5b97c2c5639caad8.d: /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/lib.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/builder.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/error.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/non_nil.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/parser.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/fmt.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/timestamp.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/external.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/macros.rs
+
+/Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/lib.rs:
+/Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/builder.rs:
+/Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/error.rs:
+/Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/non_nil.rs:
+/Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/parser.rs:
+/Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/fmt.rs:
+/Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/timestamp.rs:
+/Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/external.rs:
+/Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.16.0/src/macros.rs:
